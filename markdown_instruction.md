@@ -33,3 +33,18 @@
  >> И их повторением для создания цитаты в цитате
  
 ## Ветки
+
+**git branch** - просмотр всех веток
+
+**git branch branch_name** - создание новой ветки с именем branch_name
+
+**git merge branch_name** - объединение текущей ветки с веткой branch_name
+
+**git branch -d branch_name** - удаление ветки branch_name
+
+**git checkout branch_name** - перемещение в ветку branch_name
+
+**git checkout -b branch_name** - создание и перемещение в ветку branch_name
+
+**git branch -m new_branch_name** - переименование текущей ветки в new_branch_name
+
